@@ -9,12 +9,6 @@
 	],
 "creatorBuild": "25444",
 "files": {
-	"\/.bowerrc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/.bowerrc",
-		"oF": 0
-		},
 	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
@@ -1058,7 +1052,7 @@
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "src\/libs",
 	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
+	"bowerInstallDevDependencies": 1,
 	"bowerSaveDependencies": 1,
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
