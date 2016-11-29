@@ -9,6 +9,18 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/.bowerrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bld\/.bowerrc",
+		"oF": 0
+		},
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bld\/.gitignore",
+		"oF": 0
+		},
 	"\/bld": {
 		"ft": 65536,
 		"oA": 1,
@@ -22,6 +34,24 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/bld\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/src\/404.php": {
 		"ft": 8192,
@@ -117,74 +147,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Bold.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Bold.eot",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Bold.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Bold.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Bold.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Bold.ttf",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Bold.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Bold.woff",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Bold.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Bold.woff2",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-BoldItalic.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-BoldItalic.eot",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-BoldItalic.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-BoldItalic.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-BoldItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-BoldItalic.ttf",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-BoldItalic.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-BoldItalic.woff",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-BoldItalic.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-BoldItalic.woff2",
-		"oF": 0
-		},
 	"\/src\/fnt\/Open_Sans\/OpenSans-Extrabold.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -217,40 +179,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Extrabold.woff2",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.eot",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.ttf",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.woff",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-ExtraboldItalic.woff2",
 		"oF": 0
 		},
 	"\/src\/fnt\/Open_Sans\/OpenSans-Italic.eot": {
@@ -287,108 +215,6 @@
 		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Italic.woff2",
 		"oF": 0
 		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Light.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Light.eot",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Light.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Light.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Light.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Light.ttf",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Light.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Light.woff",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Light.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Light.woff2",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Semibold.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Semibold.eot",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Semibold.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Semibold.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Semibold.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Semibold.ttf",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Semibold.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Semibold.woff",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-Semibold.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-Semibold.woff2",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.eot",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.ttf",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.woff",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans-SemiboldItalic.woff2",
-		"oF": 0
-		},
 	"\/src\/fnt\/Open_Sans\/OpenSans.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -421,40 +247,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSans.woff2",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSansLight-Italic.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSansLight-Italic.eot",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSansLight-Italic.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSansLight-Italic.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSansLight-Italic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSansLight-Italic.ttf",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSansLight-Italic.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSansLight-Italic.woff",
-		"oF": 0
-		},
-	"\/src\/fnt\/Open_Sans\/OpenSansLight-Italic.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/fnt\/Open_Sans\/OpenSansLight-Italic.woff2",
 		"oF": 0
 		},
 	"\/src\/fnt\/README.md": {
@@ -2698,7 +2490,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"outputStyle": 3,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
